@@ -1,4 +1,4 @@
-# Building a LinkedIn People Profiles, Company Profiles, and Job Scraper with Python Scrapy
+# Web-Scraping-LinkedIn-Profiles-and-Jobs-for-Targeted-Lead-Generation
 I built a LinkedIn scraper using Scrapy to help extract meaningful data from LinkedIn’s vast professional network. It pulls profile details, job listings, and other relevant info in a scalable and efficient way. Whether you're sourcing talent, analyzing market trends, or expanding your network, this tool makes it easier to gather the insights you need.
 
 Key Features:
@@ -9,7 +9,7 @@ Key Features:
 
 3. Proxy Integration: Seamlessly integrate proxy support to enhance anonymity and mitigate IP blocking, enabling uninterrupted operation even during large-scale data extraction tasks.
 
-4. Comprehensive Data Extraction: Extract a wealth of profile details including names, job titles, companies, education, skills, and more, providing you with comprehensive insights to make informed decisions.
+4. Comprehensive Data Extraction: Extract a wealth of profile details, including names, job titles, companies, education, skills, and more, providing you with comprehensive insights to make informed decisions.
 
 5. Flexible Data Export: Export scraped data in various formats such as CSV, JSON, or Excel, facilitating seamless integration with other tools and data analysis platforms, ensuring effortless incorporation into your workflow.
 
